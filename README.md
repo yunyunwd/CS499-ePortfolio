@@ -9,7 +9,7 @@ This portfolio showcases my work and growth throughout the Computer Science prog
 - Professional Self-Assessment
 - Code Review
 - Software Engineering Enhancement
-- Algorithms and Data Structures Enhancement
+- [Algorithms and Data Structures Enhancement](algorithms/)
 - Database Enhancement
 
 Thank you for visiting my portfolio
