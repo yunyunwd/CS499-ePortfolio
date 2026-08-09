@@ -6,7 +6,7 @@ This portfolio showcases my work and growth throughout the Computer Science prog
 
 ## Contents
 
-- Professional Self-Assessment
+- [Professional Self-Assessment](self-assessment/)
 - Code Review
 - Software Engineering Enhancement
 - [Algorithms and Data Structures Enhancement](algorithms/)
