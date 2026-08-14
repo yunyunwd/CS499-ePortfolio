@@ -14,4 +14,6 @@ These changes improve the usability of the application and demonstrate my abilit
 The narrative for this enhancement describes the original artifact, the changes I made, and how the enhancement demonstrates my skills in algorithms and data structures.
 
 ## Files
-The enhanced project files and enhancement narrative are included in this section of my ePortfolio.
+
+- [Algorithms and Data Structures Narrative](CS499_Milestone_Three_Narrative.docx)
+- [Enhanced Algorithms Artifact](travlr_CS499_algorithms.zip)
