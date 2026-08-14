@@ -10,5 +10,4 @@ The review discusses the existing functionality, areas for improvement, and the 
 
 The code review video is available at the link below:
 
-[Watch the CS 499 Code Review]
-(https://youtu.be/J88ZZ_8bceQ)
+[Watch the CS 499 Code Review] (https://youtu.be/J88ZZ_8bceQ)
