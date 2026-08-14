@@ -18,4 +18,5 @@ The narrative for this enhancement describes the original artifact, the changes 
 
 ## Files
 
-The enhanced project files and enhancement narrative are included in this section of my ePortfolio.
+- [Software Design and Engineering Narrative](CS499_Milestone_Two_Narrative.docx)
+- [Enhanced Software Engineering Artifact](travlr_CS499_Software_engineering.zip)
