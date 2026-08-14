@@ -18,4 +18,5 @@ The narrative for this enhancement describes the original artifact, the database
 
 ## Files
 
-The enhanced project files and enhancement narrative are included in this section of my ePortfolio.
+- [Database Enhancement Narrative](CS499_Milestone_Four_Narrative.docx)
+- [Enhanced Database Artifact](travlr_CS499_database.zip)
