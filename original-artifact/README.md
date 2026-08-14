@@ -8,4 +8,6 @@ This project serves as the foundation for the three enhancements included in thi
 
 ## File
 
-The original version of the Travlr Getaways application is included in this section for comparison with the enhanced versions.
+The original version of the Travlr Getaways application is included for comparison with the enhanced versions.
+
+[Download the Original Travlr Getaways Artifact](travlr_Original.zip)
